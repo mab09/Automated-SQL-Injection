@@ -6,4 +6,4 @@ Modifiable code to perform a basic automated SQL Injection Attack against vulner
 
 Tested in WebGoat, a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
-DO NOT USE ON REAL WEBSITES AS THIS IS FOR ACADEMIC PURPOSES ONLY AND THEY WILL NOT BE VULNERABLE TO THIS ATTACK IN ITS CURRENT FORM.
+DO NOT USE ON REAL WEBSITES AS THIS IS FOR ACADEMIC PURPOSES ONLY.
